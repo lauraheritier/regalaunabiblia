@@ -40,7 +40,7 @@ export default function Home() {
             <div>Titular: Noelia Belen Nieves</div>
           </p>
 
-          <p>
+          <p className={styles.card}>
             <h2>¿Se puede colaborar de alguna otra manera?</h2>
             <p>
             Hay otras formas de participar: necesitamos oración por los niños y los voluntarios que trabajan en el Hogar. Nada de esto sería posible sin la guía de Espíritu Santo ¡Contamos con ello!
