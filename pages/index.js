@@ -42,7 +42,7 @@ export default function Home() {
           <div className="card">
             <h2>¿Se puede colaborar de alguna otra manera?</h2>
             <p>
-              Hay otras formas de participar: necesitamos oración por los niños y los voluntarios que trabajan en el Hogar. Nada de esto sería posible sin la guía de Espíritu Santo ¡Contamos con ello!
+              Hay otras formas de participar: necesitamos oración por los niños y los voluntarios que trabajan en el Hogar. Nada de esto sería posible sin la guía del Espíritu Santo ¡Contamos con ello!
             </p>
           </div>
         </div>
