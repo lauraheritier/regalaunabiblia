@@ -47,7 +47,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div class="footer">
+        <div className="footer">
           <h3>¡Importante!</h3>
           <small>Al realizar la compra de las biblias, enviaremos el comprobante de pago a todos los que colaboraron económicamente y, por supuesto, las imágenes de la entrega de las biblias :)</small> 
           <small>Para más información, se pueden comunicar con Belén Nieves.</small>
