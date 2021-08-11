@@ -23,24 +23,24 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <p className={styles.card}>
+          <p className="card">
             <h2>¿Cuánto donar?</h2>
             <p>Cada biblia cuesta $500. Sin embargo, el monto que decidan donar será suficiente.</p>
           </p>
             
-            <p className={styles.card}>
+            <p className="card">
             <h2>¿Hasta cuándo hay tiempo de donar?</h2>
             <p>Receptaremos el dinero hasta el 25 de agosto.</p>
           </p>
 
-            <p className={styles.card}>
+            <p className="card">
             <h2>¿Cómo realizar la donación?</h2>
             <p>Por transferencia bancaria a la siguiente cuenta:</p>
             <p>Alias: NIEVES.BELEN</p>
             <p>Titular: Noelia Belen Nieves</p>
           </p>
 
-          <p className={styles.card}>
+          <p className="card">
             <h2>¿Se puede colaborar de alguna otra manera?</h2>
             <p>
             Hay otras formas de participar: necesitamos oración por los niños y los voluntarios que trabajan en el Hogar. Nada de esto sería posible sin la guía de Espíritu Santo ¡Contamos con ello!
