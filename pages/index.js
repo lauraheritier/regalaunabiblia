@@ -28,17 +28,17 @@ export default function Home() {
             <p>Cada biblia cuesta $500. Sin embargo, el monto que decidan donar será suficiente.</p>
           </p>
             
-            <p className="card">
+           <div className="card">
             <h2>¿Hasta cuándo hay tiempo de donar?</h2>
             <p>Receptaremos el dinero hasta el 25 de agosto.</p>
-          </p>
+          </div>
 
-            <p className="card">
+           <div className="card">
             <h2>¿Cómo realizar la donación?</h2>
             <p>Por transferencia bancaria a la siguiente cuenta:</p>
             <p>Alias: NIEVES.BELEN</p>
             <p>Titular: Noelia Belen Nieves</p>
-          </p>
+          </div>
 
           <p className="card">
             <h2>¿Se puede colaborar de alguna otra manera?</h2>
