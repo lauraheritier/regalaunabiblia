@@ -1,28 +1,27 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div className="container">
       <Head>
         <title>Regalá una biblia</title>
         <meta name="description" content="Regalá una biblia" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
+      <main className="main">
+        <h1 className="title">
           ¡Hola, amigos!
         </h1>
 
-        <p className={styles.description}>
+        <p className="description">
           Iniciamos la campaña <b>Regalá una biblia</b> a fin de comprar biblias para donar al Hogar de niños <b><a href="http://sierradorada.com.ar/projectos/hogar_de_ninios/">Sierra Dorada</a></b>
         <br/>
         Creemos que este es un deseo que nació en el corazón de nuestro Señor y que se podrá concretar con el esfuerzo de todos como cuerpo de Cristo.
         </p>
 
-        <div className={styles.grid}>
+        <div className="grid">
           <p className="card">
             <h2>¿Cuánto donar?</h2>
             <p>Cada biblia cuesta $500. Sin embargo, el monto que decidan donar será suficiente.</p>
