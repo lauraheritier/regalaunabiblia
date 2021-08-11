@@ -30,7 +30,7 @@ export default function Home() {
 
           <p className={styles.card}>
             <h2>¿Hasta cuándo hay tiempo de donar?</h2>
-            <p>Receptaremos el dinero hasta el <b>25 de agosto</b>.</p>
+            <span>Receptaremos el dinero hasta el <b>25 de agosto</b>.</span>
           </p>
 
           <p className={styles.card}>
