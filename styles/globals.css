@@ -26,7 +26,7 @@ a {
   background-image: url(http://sierradorada.com.ar/wp-content/uploads/2016/03/Sierra_Dorada_Hogar_ninios.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: -50px -80px;
+  background-position: -50px center;
 }
 .title, .description {
   text-shadow: 2px 3px 5px rgba(0,0,0,0.5);
