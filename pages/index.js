@@ -36,16 +36,16 @@ export default function Home() {
            <div className="card">
             <h2>¿Cómo realizar la donación?</h2>
             <p>Por transferencia bancaria a la siguiente cuenta:</p>
-            <p>Alias: NIEVES.BELEN</p>
+            <p>Alias: <span style="font-weight: bold;">NIEVES.BELEN</span></p>
             <p>Titular: Noelia Belen Nieves</p>
           </div>
 
-          <p className="card">
+          <div className="card">
             <h2>¿Se puede colaborar de alguna otra manera?</h2>
             <p>
             Hay otras formas de participar: necesitamos oración por los niños y los voluntarios que trabajan en el Hogar. Nada de esto sería posible sin la guía de Espíritu Santo ¡Contamos con ello!
             </p>
-          </p>
+          </div>
         </div>
 
         <h3>¡Importante!</h3>
