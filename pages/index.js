@@ -32,7 +32,6 @@ export default function Home() {
             <h2>¿Hasta cuándo hay tiempo de donar?</h2>
             <p>Receptaremos el dinero hasta el 25 de agosto.</p>
           </p>
-            Receptaremos el dinero hasta el
 
             <p className={styles.card}>
             <h2>¿Cómo realizar la donación?</h2>
