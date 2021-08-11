@@ -24,7 +24,7 @@ a {
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  width: 45%;
+  
 }
 
 .card:hover,
@@ -44,4 +44,6 @@ a {
   font-size: 1.25rem;
   line-height: 1.5;
 }
-
+@media only screen and (min-width: 40.063em) {
+  width: 45%;
+}
