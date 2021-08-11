@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Iniciamos la campaña Regalá una biblia a fin de comprar biblias para donar al Hogar de niños <b><a href="http://sierradorada.com.ar/projectos/hogar_de_ninios/">Sierra Dorada</a></b>
+          Iniciamos la campaña <b>Regalá una biblia</b> a fin de comprar biblias para donar al Hogar de niños <b><a href="http://sierradorada.com.ar/projectos/hogar_de_ninios/">Sierra Dorada</a></b>
         <br/>
         Creemos que este es un deseo que nació en el corazón de nuestro Señor y que se podrá concretar con el esfuerzo de todos como cuerpo de Cristo.
         </p>
