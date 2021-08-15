@@ -23,7 +23,7 @@ export default function Home() {
         <div className="grid">
           <p className="card">
             <h2>¿Cuánto donar?</h2>
-            <p>Cada biblia cuesta $500. Sin embargo, el monto que decidan donar será suficiente.</p>
+            <p>Cada biblia cuesta $400. Sin embargo, el monto que decidan donar será suficiente.</p>
           </p>
 
           <div className="card">
