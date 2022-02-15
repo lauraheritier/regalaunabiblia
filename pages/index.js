@@ -52,7 +52,7 @@ export default function Home() {
         </div>
 
         <div className="footer">
-        <p>¡Importante! Enviar el comprobante de transferencia al número de WhatsApp <a href="https://wa.me/543518062904" target="_blank">3518062904</a>. Usaremos este medio para enviar las fotos de las donaciones.</p>
+        <p>¡Importante! Enviar el comprobante de transferencia al número de WhatsApp <a href="https://wa.me/543518062904" target="_blank">3518062904</a>. Usaremos este medio para enviar las fotos de las donaciones y para receptar consultas.</p>
          
            </div>
       </main>
