@@ -18,7 +18,7 @@ export default function Home() {
         <p className="description">
           Iniciamos una nueva campaña para la vuelta al cole de nuestros 
           amigos que viven en los hogares de 
-          la <a href="https://www.instagram.com/fundacionsierradorada/">
+          la <a href="https://www.instagram.com/fundacionsierradorada/" target="_blank" rel="noreferrer">
             Fundación Sierra Dorada</a>.
                  </p>
 
@@ -52,7 +52,7 @@ export default function Home() {
         </div>
 
         <div className="footer">
-        <p>¡Importante! Enviar el comprobante de transferencia al número de WhatsApp <a href="https://wa.me/543518062904" target="_blank">3518062904</a>. Usaremos este medio para enviar las fotos de las donaciones y para receptar consultas.</p>
+        <p>¡Importante! Enviar el comprobante de transferencia al número de WhatsApp <a href="https://wa.me/543518062904" target="_blank" rel="noreferrer">3518062904</a>. Usaremos este medio para enviar las fotos de las donaciones y para receptar consultas.</p>
          
            </div>
       </main>
