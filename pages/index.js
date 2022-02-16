@@ -38,7 +38,9 @@ export default function Home() {
             <h2>¿Cómo realizar la donación?</h2>
             <p>Por transferencia bancaria a la siguiente cuenta:</p>
             <p>Alias: <b>lauheritier</b></p>
+    <p>CBU:<b>0720199488000025676972</b></p>
             <p>Titular: Laura Heritier</p>
+    <p>Banco Stander</p>
             
           </div>
 
