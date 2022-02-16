@@ -26,7 +26,7 @@ export default function Home() {
         <div className="card">
             <h2>¿A dónde va la donación?</h2>
             <p>El dinero recibido se destinará a la compra de útiles escolares para niños
-              de Primaria y Secundaria. Esto incluye: mochilas, cartucheras, carpetas, cuadernos,
+              de Primaria y Secundaria. Esto incluye: folios, cartucheras, carpetas, cuadernos,
               lápices, lapiceras, entre otros útiles.</p>
           </div>
           <div className="card">
